@@ -2,11 +2,6 @@
 ![License](https://img.shields.io/badge/License-Academic-blue.svg)
 ![Tools](https://img.shields.io/badge/Tools-MATLAB%20%7C%20Simulink%20%7C%20SOLIDWORKS-orange)
 
-## 👤 By
-**Eslam A.Abd El-Razek** 
-
-📧 Email: [eslamelshick@gmail.com](mailto:eslamelshick@gmail.com)
-
 ---
 
 ## 📌 Project Overview
