@@ -23,7 +23,7 @@ This repository contains the complete design, mechanical analysis, and functiona
 To ensure easy navigation, the project is organized into the following directories:
 
 * **`Report/`**: Contains the final technical report in PDF format and the LaTeX source code.
-* **`CAD-Models/`**: Includes the 3D designs created in **SOLIDWORKS** (`.SLDPRT`, `.SLDASM`) and universal `.STEP` files.
+* **`CAD-Models/`**: Includes the 3D designs created in **SOLIDWORKS** (`.SLDPRT`, `.SLDASM`) .
 * **`MATLAB-Simulation/`**: Contains the **Simulink** models (`.slx`) and MATLAB scripts (`.m`) used for kinematic and dynamic engine analysis.
 
 ## 🛠 Tools & Technologies
@@ -40,13 +40,16 @@ To ensure easy navigation, the project is organized into the following directori
 ## 👥 Project Team
 *The following members contributed to the development and analysis of this project:*
 
-- **ESLM A.Abd El-Razek** (Lead)
-- Eslam Abd El-Hamid
+- ESLM A.Abd El-Razek
 - Mohamed Ahmed Mohamed
 - Eslam Mossad
 - Mohamed Amr
 - Mohamed Karim
 - Marwan Ayman Serag El-Din
+
+
+## Connect for any info needed:
+📧 Email: [eslamelshick@gmail.com](mailto:eslamelshick@gmail.com)
 
 **Supervised by:** **Prof. Abdelrahman Elkattan** *Department of Mechatronics, Faculty of Engineering* *Arab Academy for Science, Technology and Maritime Transport (AASTMT)*
 
